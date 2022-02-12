@@ -10,7 +10,7 @@
 My name is Murakami Hiroki(`@and-2353`).<br>
 I'm a student (Management) majoring in Data Analysis.<br>
 I'm interested in Deep Learning (especially Natural Language Processing). Recently, I'm interested in Linguistics.<br>
-I have 3 years of experience with Python3.<br>
+I have 3 years of experience with `Python3`.<br>
 Other languages I've used include `R`/`Java`/`C#`/`JavaScript`/`HTML+CSS`.<br>
 I've also used `Raspberry Pi` for a while.<br>
 
