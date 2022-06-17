@@ -1,18 +1,33 @@
 
 - Murakami Hiroki(`@and-2353`) です.
 - 学生(経営学部), データ分析を専攻しています.
-- 深層学習(特に自然言語処理)に興味があります. 最近は言語学に関心.
-- `Python3` の経験3年.
-- その他触ったことがある言語は`R`/`Java`/`C#`/`JavaScript`/`HTML+CSS` など.
-- 一時期 `Raspberry Pi` も触ってました.
+- 卒業研究では英単語の意味ベクトル(embedding)の分析をしています．
+- 深層学習/自然言語処理/英語/言語学/ソフトウェア開発などに関心があります.
 
+#### 言語経験
+- `Python3`
+- `C#`
+- `JavaScript`
+- `HTML+CSS`
+- `R`
+- `Java`
+- `SQL` 
 
-My name is Murakami Hiroki(`@and-2353`).<br>
-I'm a student (Management) majoring in Data Analysis.<br>
-I'm interested in Deep Learning (especially Natural Language Processing). Recently, I'm interested in Linguistics.<br>
-I have 3 years of experience with `Python3`.<br>
-Other languages I've used include `R`/`Java`/`C#`/`JavaScript`/`HTML+CSS`.<br>
-I've also used `Raspberry Pi` for a while.<br>
+#### 開発環境などの経験
+- `Unity`
+- `Raspberry Pi`
+- `Android Studio`
+- `Git/GitHub`
+- `Ubuntu`
+- `Windows Subsystem for Linux`
+- `Google Colaboratory`
+- `Tera Term`
+- `blender`
+
+My name is Murakami Hiroki (`@and-2353`).
+I'm a student (Management), majoring in Data Analysis.
+In my graduation research, I'm analyzing semantic vectors (embeddings) of English words.
+I'm interested in Deep learning, Natural Language Processing, English, Linguistics, and Software Development.
 
 
 <!---
