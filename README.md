@@ -24,10 +24,10 @@
 - `Tera Term`
 - `blender`
 
-My name is Murakami Hiroki (`@and-2353`).
-I'm a student (Management), majoring in Data Analysis.
-In my graduation research, I'm analyzing semantic vectors (embeddings) of English words.
-I'm interested in Deep learning, Natural Language Processing, English, Linguistics, and Software Development.
+My name is Murakami Hiroki (`@and-2353`).<br>
+I'm a student (Management), majoring in Data Analysis.<br>
+In my graduation research, I'm analyzing semantic vectors (embeddings) of English words.<br>
+I'm interested in Deep learning, Natural Language Processing, English, Linguistics, and Software Development.<br>
 
 
 <!---
