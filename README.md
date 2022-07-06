@@ -14,6 +14,7 @@
 - `SQL` 
 
 #### 開発環境などの経験
+- `Visual Studio Code`
 - `Unity`
 - `Raspberry Pi`
 - `Android Studio`
